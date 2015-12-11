@@ -1,0 +1,17 @@
+How to play Maze Runner 1
+Objective
+To collect all of the heart points and get to the skull face
+with minimal interference with the enemies.
+Move around the maze locating yourself strategicaly away from the enemies
+Hunter starts with a lifepoint of 100 and it gets reduced every time he gets shot
+When his life points reach 0. The game ends,
+regardless of how many life points he has collected
+StoryLine
+Hunter is the last human in the city of Rode
+He wants to make his way to Mars, the New Home
+In order for him to do that he has to collect enought heart entities
+and then return to Dr Swade so that he can build the spaceship
+Killers
+The killers are aliens from the unknown world
+We know nothing of them, we do not know who they are
+where they are from or what they really can do.

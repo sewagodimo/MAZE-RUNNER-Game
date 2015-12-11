@@ -1,0 +1,45 @@
+.....CSC2003S MAZE RUNNER 2015......
+Developer: Ednecia Sewagodimo Matlapeng
+			MTLEDN001
+09-2015
+Features:
+...........A welcome page................
+...........A menu screen............
+(Settings, about game, how to play, new game)
+................Settings........
+- Allows the user to alter gaming conditions
+they can turn the sound on or off
+they can restart a game
+they can change the level
+they can clear up the hall of fame
+and other things.
+.............Enemies..................
+******Bullies******
+Move around frantically
+Lethal and will cost you 10 lifepoints
+********Dragon********
+Breathes fire as it changes direction
+Breaths fire into maze from top
+Fire cools down, only 3 points lost
+******Lava Fly*******
+Its basically poos green lava
+Has a random reaction period
+Shoots out 3 lava poos at once
+In exploding directions
+...........Multiple Stages..........
+************Level 1:************
+1 enemy appears, the bullies
+*********8Level 2:**********
+The dragon enters the scenery
+player now has to watch out for the fire and bull collisions
+************Level 3:***********
+The Lava Fly appears
+.......Sound.........
+A remix of On another love by Tom Odell.
+...........HALL OF FAME..........
+A list of the best scoring players and their 
+scores, and the levels they reached that score
+...........Scoring........................
+In order to win the player has to reach the skull
+Having collected all the items on the board
+With a high score as possible.
